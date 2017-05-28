@@ -11,7 +11,7 @@
 Joost Visser, CTO, [@jstvssr](https://twitter.com/jstvssr)<br/>
 Michiel Cuijpers, Product Owner, [@michielcuijpers](https://twitter.com/MichielCuijpers)<br/>
 Rob van der Leek, Technical Lead, [@robvanderleek](https://twitter.com/robvanderleek)<br/>
-\+ Mircea, Merel, Achilleas and Kostas 
+\+ Mircea, Kostas, Merel, Thomas and Achilleas
 
 ### Software Improvement Group
 
@@ -136,8 +136,7 @@ Zero set-up time and immediate developer feedback
 
 ![10 guidelines](assets/10-guidelines.jpg)
 
-10 guidelines for future-proof code, based on ISO 25010 standard for Software
-Quality
+Based on ISO 25010 standard for Software Quality
 
 +++
 
@@ -183,6 +182,7 @@ For organizations that use an on-premise GitHub Enterpise server
 - SIG is ISO 27001 certified
 - No permanent storage of source code on Better Code Hub infrastructure
 - Pricing: $20 per user/month + yearly service fee
+- Option to bundle with other SIG services
 
 ---
 
