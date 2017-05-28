@@ -1,0 +1,205 @@
+---?image=assets/bch-bg.png
+
+### Introducing
+## Better Code Hub
+#### Your Definition of Done for Code Quality
+
+---?image=assets/amsterdam-bg.jpg
+<!-- .slide: style="text-align: left;"> -->  
+### Product team
+
+Joost Visser, CTO, [@jstvssr](https://twitter.com/jstvssr)<br/>
+Michiel Cuijpers, Product Owner, [@michielcuijpers](https://twitter.com/MichielCuijpers)<br/>
+Rob van der Leek, Technical Lead, [@robvanderleek](https://twitter.com/robvanderleek)<br/>
+\+ Mircea, Merel, Achilleas and Kostas 
+
+### Software Improvement Group
+
+Tool-based consultancy firm specialized in Software Quality. HQ in Amsterdam
+with clients in Europe, Asia and US. Strong academic roots, 17 years of
+industry experience. [sig.eu](https://www.sig.eu)
+
+---
+
+## The challenge of InnerSourcing
+
+![Getting started with InnerSource](assets/getting-started-with-innersource-cover.png)
+
+To enable *code reuse*, *cross-team collaboration* and *faster development*,
+code must be <span class="primary">maintainable</span>.
+
++++
+
+![Legacy code](assets/legacy-code.png)
+
+Nobody wants to adopt legacy code
+
++++
+
+#### Code Quality tools prevent legacy code, but...
+
+<canvas class="stretch" data-chart="horizontalBar">
+dataset, 46, 36, 35, 28, 27, 14
+<!-- 
+{ 
+ "data" : {
+  "labels" : ["Too many false positives", "Too many warnings", "High price", 
+    "Difficult to configure", "No actionable recommendations", 
+    "Lack a broadly accepted quality standard"], 
+  "datasets" : [{ 
+    "data": [46, 36, 35, 28, 27, 14],
+    "backgroundColor": "springgreen",
+    "borderColor": "springgreen" 
+  }]
+  },
+  "options": {
+    "title": {
+      "display": true,
+      "text": "What are the biggest pitfalls of code quality tools?",
+      "fontColor": "springgreen",
+      "fontSize": 20
+    },
+    "legend": {
+      "display": false
+    },
+    "scales": {
+      "xAxes": [{
+        "ticks": {
+            "beginAtZero": true,
+            "max": 80,
+            "stepSize": 10,
+            "fontColor": "springgreen"
+        },
+        "scaleLabel": {
+          "display": true,
+          "labelString": "Percentage of respondents (T=899)",
+          "fontColor": "springgreen"
+        }
+      }],
+      "yAxes": [{
+        "ticks": {
+            "fontColor": "springgreen"
+        }
+      }]
+    }
+  }
+}
+-->
+<ccanvas>
+
++++ 
+
+![Improving code quality cover](assets/improving-code-quality-cover.png)
+
+Read more: [Improving Code
+Quality](https://www.sig.eu/insight/improving-code-quality/)
+
+---
+<!-- 
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+} 
+-->  
+
+## Our solution
+
+![Improve what matters](assets/bch-improve-what-matters.jpg)
+
+<https://bettercodehub.com>
+
++++
+
+![Mockito 10 out of 10](assets/mockito-10-out-of-10.png)
+
+Provides teams a Definition of Done for Code Quality 
+
++++
+
+![octodns](assets/octodns.jpg)
+
+Does not flood you with violations
+
++++
+
+![Commons-IO simple units guideline](assets/commons-io-simple-units-guideline.png)
+
+Actionable refactoring recommendations with impact analysis
+
++++
+
+![BCH GitHub flow](assets/bch-github-flow.png)
+
+Zero set-up time and immediate developer feedback
+
++++
+
+![10 guidelines](assets/10-guidelines.jpg)
+
+10 guidelines for future-proof code, based on ISO 25010 standard for Software
+Quality
+
++++
+
+### Why Better Code Hub
+
+- Provides a Definition of Done for Code Quality 
+- Zero-setup time; first results within a couple of minutes
+- Feedback on every Push and every Pull Request
+- Supports 16 modern programming languages
+- Prioritized list of refactoring candidates
+- Real-time impact estimates
+- Metric thresholds derived from industry benchmark data
+
+---
+
+## Our offerings
+
+#### Better Code Hub for <span class="primary">GitHub.com</span>
+
+From individual developers and small teams to large enterprises that use the
+GitHub.com plaform for their software development
+
+#### Better Code Hub for <span class="primary">GitHub Enterprise</span>
+
+For organizations that use an on-premise GitHub Enterpise server
+
++++
+
+### Better Code Hub for GitHub.com
+
+- [https://bettercodehub.com](https://bettercodehub.com)
+- Listing in Works with GitHub directory
+- Pricing
+  - Free plan: free for open source, limit 100,000 lines of code per repository
+  - Pro plan: $20 per user/month, limit 200,000 lines of code per repository
+- Perfect fit for a [modern CI/CD pipeline](https://medium.com/bettercode/how-to-build-a-modern-ci-cd-pipeline-5faa01891a5b)
+
++++
+
+### Better Code Hub for GitHub Enterprise
+
+- SaaS solution that connects to on-premise GitHub Enterprise server 
+- SIG is ISO 27001 certified
+- No permanent storage of source code on Better Code Hub infrastructure
+- Pricing: $20 per user/month + yearly service fee
+
+---
+
+## Our community offerings
+
+- [EduPack: Code Clinics](https://education.github.community/t/a-proposed-add-on-for-code-quality-in-software-engineering-courses-using-github/9067) 
+- [Open Source Spring Cleaning](https://opensourcespringcleaning.github.io/)
+- [Supporting hackathons](https://dev.to/jstvssr/how-a-hackathon-appreciates-quality-code)
+
+---
+
+## How to stay in touch
+
+- <bettercodehub@sig.eu>
+- Twitter: [@bettercodehub](https://twitter.com/bettercodehub)
+- Medium: [medium.com/bettercode](https://medium.com/bettercode)
+- Newsletter: [Better Code Update](http://us14.campaign-archive1.com/home/?u=104bf91e618a0b2a854bdea20&id=97fcbfb998)
+
+This presentation: <https://gitpitch.com/bettercodehub/pitch><br/><br/>
+✨ Thanks for your time! ✨
