@@ -136,7 +136,7 @@ Zero set-up time and immediate developer feedback
 
 ![10 guidelines](assets/10-guidelines.jpg)
 
-Based on ISO 25010 standard for Software Quality
+[Based on ISO 25010 standard for Software Quality](https://shop.oreilly.com/product/0636920049159.do)
 
 +++
 
