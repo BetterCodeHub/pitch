@@ -181,7 +181,7 @@ For organizations that use an on-premise GitHub Enterprise server
 - SaaS solution that connects to on-premise GitHub Enterprise server 
 - SIG is ISO 27001 certified
 - No permanent storage of source code on Better Code Hub infrastructure
-- Pricing: $20 per user/month + yearly service fee
+- Pricing per user/month + yearly service fee
 - Option to bundle with other SIG services
 
 ---
