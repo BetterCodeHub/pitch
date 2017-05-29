@@ -6,7 +6,7 @@
 
 ---?image=assets/amsterdam-bg.jpg
 <!-- .slide: style="text-align: left;"> -->  
-### Product team
+### Product Team
 
 Joost Visser, CTO, [@jstvssr](https://twitter.com/jstvssr)<br/>
 Michiel Cuijpers, Product Owner, [@michielcuijpers](https://twitter.com/MichielCuijpers)<br/>
@@ -15,13 +15,14 @@ Rob van der Leek, Technical Lead, [@robvanderleek](https://twitter.com/robvander
 
 ### Software Improvement Group
 
-Tool-based consultancy firm specialized in Software Quality. HQ in Amsterdam
-with clients in Europe, Asia and US. Strong academic roots, 17 years of
-industry experience. [sig.eu](https://www.sig.eu)
+- Tool-based consultancy specializing in Software Quality 
+- HQ in Amsterdam with clients in Europe, Asia and US
+- Strong academic roots, 17 years of industry experience
+[sig.eu](https://www.sig.eu)
 
 ---
 
-## The challenge of InnerSourcing
+## The Challenge of InnerSourcing
 
 ![Getting started with InnerSource](assets/getting-started-with-innersource-cover.png)
 
@@ -102,7 +103,7 @@ Quality](https://www.sig.eu/insight/improving-code-quality/)
 } 
 -->  
 
-## Our solution
+## Our Solution
 
 ![Improve what matters](assets/bch-improve-what-matters.jpg)
 
@@ -152,16 +153,16 @@ Based on ISO 25010 standard for Software Quality
 
 ---
 
-## Our offerings
+## Our Offerings
 
 #### Better Code Hub for <span class="primary">GitHub.com</span>
 
-From individual developers and small teams to large enterprises that use the
-GitHub.com plaform for their software development
+For individual developers & small development teams as well as large
+enterprises that use the GitHub.com platform
 
 #### Better Code Hub for <span class="primary">GitHub Enterprise</span>
 
-For organizations that use an on-premise GitHub Enterpise server
+For organizations that use an on-premise GitHub Enterprise server
 
 +++
 
@@ -186,15 +187,15 @@ For organizations that use an on-premise GitHub Enterpise server
 
 ---
 
-## Our community offerings
+## Our Community Offerings
 
 - [EduPack: Code Clinics](https://education.github.community/t/a-proposed-add-on-for-code-quality-in-software-engineering-courses-using-github/9067) 
 - [Open Source Spring Cleaning](https://opensourcespringcleaning.github.io/)
-- [Supporting hackathons](https://dev.to/jstvssr/how-a-hackathon-appreciates-quality-code)
+- [Support for Hackathons](https://dev.to/jstvssr/how-a-hackathon-appreciates-quality-code)
 
 ---
 
-## How to stay in touch
+## How to Stay in Touch
 
 - <bettercodehub@sig.eu>
 - Twitter: [@bettercodehub](https://twitter.com/bettercodehub)
