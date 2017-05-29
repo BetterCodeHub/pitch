@@ -15,9 +15,9 @@ Rob van der Leek, Technical Lead, [@robvanderleek](https://twitter.com/robvander
 
 ### Software Improvement Group
 
-Tool-based consultancy specializing in Software Quality<br/> 
-HQ in Amsterdam with clients in Europe, Asia and US<br/>
-Strong academic roots, 17 years of industry experience [sig.eu](https://www.sig.eu)
+Tool-based consultancy specializing in Software Quality. HQ in Amsterdam with
+clients in Europe, Asia and US. Strong academic roots, 17 years of industry
+experience [sig.eu](https://www.sig.eu)
 
 ---
 
