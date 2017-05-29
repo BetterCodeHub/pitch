@@ -106,7 +106,7 @@ Quality](https://www.sig.eu/insight/improving-code-quality/)
 
 ![Improve what matters](assets/bch-improve-what-matters.jpg)
 
-<https://bettercodehub.com>
+A *different* Code Quality tool
 
 +++
 
@@ -178,7 +178,7 @@ For organizations that use an on-premise GitHub Enterprise server
 
 ### Better Code Hub for GitHub Enterprise
 
-- SaaS solution that connects to on-premise GitHub Enterprise server 
+- SaaS solution that connects to on-premise GitHub Enterprise server ([client case](https://www.exact.com/global/newsroom/inside-exact/573-code-quality-is-key-to-a-successful-company)) 
 - SIG is ISO 27001 certified
 - No permanent storage of source code on Better Code Hub infrastructure
 - Pricing per user/month + yearly service fee
