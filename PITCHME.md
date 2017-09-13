@@ -4,21 +4,6 @@
 ## Better Code Hub
 #### Your Definition of Done for Code Quality
 
----?image=assets/amsterdam-bg.jpg
-<!-- .slide: style="text-align: left;"> -->  
-### Product Team
-
-Joost Visser, CTO, [@jstvssr](https://twitter.com/jstvssr)<br/>
-Michiel Cuijpers, Product Owner, [@michielcuijpers](https://twitter.com/MichielCuijpers)<br/>
-Rob van der Leek, Technical Lead, [@robvanderleek](https://twitter.com/robvanderleek)<br/>
-\+ Mircea, Kostas, Merel, Thomas and Achilleas
-
-### Software Improvement Group
-
-Tool-based consultancy specializing in Software Quality. HQ in Amsterdam with
-clients in Europe, Asia and US. Strong academic roots, 17 years of industry
-experience [sig.eu](https://www.sig.eu)
-
 ---
 
 ## The Challenge of InnerSourcing
@@ -167,8 +152,9 @@ For organizations that use an on-premise GitHub Enterprise server
 
 ### Better Code Hub for GitHub.com
 
-- [https://bettercodehub.com](https://bettercodehub.com)
-- Listing in Works with GitHub directory
+
+- [Available on GitHub Marketplace](https://github.com/marketplace/better-code-hub)
+
 - Pricing
   - Free plan: free for open source, limit 100,000 lines of code per repository
   - Pro plan: $20 per user/month, limit 200,000 lines of code per repository
