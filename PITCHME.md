@@ -26,8 +26,8 @@ Because nobody wants to adopt legacy code
 - Too many warnings
 - Are difficult to configure
 - Do not give actionable recommendations
-- Lack a broadly accepted quality standard
-- Are not Benchmarked
+- Lack a broadly accepted quality standard based on ISO 25010
+- Are not benchmarked so teams decide on individual thresholds
 
 
 +++ 
