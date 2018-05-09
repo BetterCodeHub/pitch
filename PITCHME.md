@@ -8,16 +8,15 @@
 
 ## The Challenge of Modern Software Development
 
-![Getting started with InnerSource](assets/getting-started-with-innersource-cover.png)
+Is to enable *code reuse*, *cross-team collaboration* and *faster development*.
 
-To enable *code reuse*, *cross-team collaboration* and *faster development*,
-code must be <span class="primary">maintainable</span>.
+The solution is <span class="primary">maintainable code</span>.
 
 +++
 
 ![Legacy code](assets/legacy-code.png)
 
-Nobody wants to adopt legacy code
+Because nobody wants to adopt legacy code
 
 +++
 
