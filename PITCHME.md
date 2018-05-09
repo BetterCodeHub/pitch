@@ -6,7 +6,7 @@
 
 ---
 
-## The Challenge of InnerSourcing
+## The Challenge of Software Development Collaboraton
 
 ![Getting started with InnerSource](assets/getting-started-with-innersource-cover.png)
 
