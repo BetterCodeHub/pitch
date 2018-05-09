@@ -6,7 +6,7 @@
 
 ---
 
-## The Challenge of Software Development Collaboraton
+## The Challenge of Modern Software Development
 
 ![Getting started with InnerSource](assets/getting-started-with-innersource-cover.png)
 
@@ -21,9 +21,7 @@ Nobody wants to adopt legacy code
 
 +++
 
-#### Code Quality tools prevent legacy code, but...
-
-These tools give
+#### Other Code Quality tools give
 
 - Too may false positives
 - Too many warnings
@@ -31,7 +29,6 @@ These tools give
 - Do not give actionable recommendations
 - Lack a broadly accepted quality standard
 - Are not Benchmarked
-
 
 
 +++ 
