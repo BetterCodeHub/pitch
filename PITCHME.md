@@ -22,7 +22,7 @@ Because nobody wants to adopt legacy code
 
 #### Other Code Quality tools give
 
-- Too may false positives
+- Too many false positives
 - Too many warnings
 - Are difficult to configure
 - Do not give actionable recommendations
