@@ -1,8 +1,8 @@
 ---?image=assets/bch-bg-small.png
 
 ### Introducing
-## Better Code Hub
-#### Your Definition of Done for Code Quality
+## Better Code Hub by
+#### Your Definition of Done for Code Quality.
 
 ---
 
